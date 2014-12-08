@@ -1,0 +1,26 @@
+$highlight_color: yellow;
+
+
+.highlight {
+  background-color: $highlight_color; 
+}
+
+.red {
+  color: red;
+}
+
+strong {
+  color: red;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+.ps {
+  text-align: left;
+}
+
+header {
+  background: tranparent url('crowd.jpg') top left;
+}
